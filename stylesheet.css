@@ -120,7 +120,8 @@ table th, table td {
 footer {
   border-top: 2px solid #eee;
   text-align: center;
-  height:160px;
+  height:100px;
+  line-height:100px;
 }
 
 .footer-kaisyamei {
